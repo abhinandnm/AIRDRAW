@@ -173,7 +173,7 @@ function App() {
       />
 
       {/* Header */}
-      <div className="fixed top-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-3 z-50">
+      <div className="fixed top-8 left-1-2 -translate-x-1-2 flex flex-col items-center gap-3 z-50">
         <h1 className="text-3xl font-black tracking-[0.4em] text-white glitch-hover">
           AIR<span className="text-purple-500">DRAW</span>
         </h1>

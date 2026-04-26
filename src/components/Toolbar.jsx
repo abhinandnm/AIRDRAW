@@ -16,7 +16,7 @@ const Toolbar = ({
 }) => {
   return (
     <div 
-      className="fixed bottom-8 left-1/2 -translate-x-1/2 z-50 flex items-center gap-6 glass glass-blur px-8 py-4 rounded-3xl"
+      className="fixed bottom-8 left-1-2 -translate-x-1-2 z-50 flex items-center gap-6 glass glass-blur px-8 py-4 rounded-3xl"
       style={{ boxShadow: '0 0 40px rgba(0,0,0,0.5)' }}
     >
       {/* Colors */}

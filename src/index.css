@@ -212,12 +212,12 @@ button.primary:hover {
 .bottom-8 { bottom: 2rem; }
 .left-8 { left: 2rem; }
 .right-8 { right: 2rem; }
-.left-1/2 { left: 50%; }
-.top-1/2 { top: 50%; }
-.-translate-x-1/2 { transform: translateX(-50%); }
-.-translate-y-1/2 { transform: translateY(-50%); }
-.fixed.left-1/2.-translate-x-1/2 { transform: translateX(-50%); }
-.fixed.left-6.top-1/2.-translate-y-1/2 { transform: translateY(-50%); }
+.left-1-2 { left: 50%; }
+.top-1-2 { top: 50%; }
+.-translate-x-1-2 { transform: translateX(-50%); }
+.-translate-y-1-2 { transform: translateY(-50%); }
+.fixed.left-1-2.-translate-x-1-2 { transform: translateX(-50%); }
+.fixed.left-6.top-1-2.-translate-y-1-2 { transform: translateY(-50%); }
 
 .w-full { width: 100%; }
 .h-full { height: 100%; }
