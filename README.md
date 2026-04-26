@@ -1,7 +1,7 @@
 # 🎨 AirDraw: Professional AI-Powered Air Drawing
 
 **AirDraw** is a premium, web-based drawing application that allows you to paint in thin air using your hand gestures or your mouse
-Live Preview: https://airdraw-delta.vercel.app/
+**Live Preview: https://airdraw-delta.vercel.app/**
 
 ## ✨ Key Features
 
