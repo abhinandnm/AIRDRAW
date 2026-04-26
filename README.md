@@ -2,7 +2,7 @@
 
 **AirDraw** is a premium, web-based drawing application that allows you to paint in thin air using your hand gestures or your mouse. Powered by **MediaPipe's Hand Landmarker AI**, it provides a magical, zero-touch creative experience with professional-grade precision smoothing and stunning visual effects.
 
-![AirDraw Interface Mockup](https://raw.githubusercontent.com/username/repo/main/screenshot.png) *(Placeholder for your screenshot)*
+
 
 ## ✨ Key Features
 
@@ -24,7 +24,7 @@
 - **Styling**: Vanilla CSS (Custom Glassmorphism Design System)
 - **Effects**: [Canvas Confetti](https://github.com/catdad/canvas-confetti)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -51,8 +51,7 @@
 
 4. **Open in your browser:**
    Navigate to `http://localhost:5173`
-
-## ☝️ How to Use
+6 How to Use
 
 1. **Initialize**: Allow camera access and wait for the "Precision Active" status.
 2. **Air Drawing**: Point your **Index Finger** up to start drawing. Lower it or curl it to stop.
@@ -60,9 +59,3 @@
 4. **Toolbar**: Use the bottom toolbar to switch colors, toggle **Glitter Mode**, adjust brush size, or clear the canvas.
 5. **Download**: Click the download icon to save your artwork!
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-Built with ❤️ by [Your Name]
