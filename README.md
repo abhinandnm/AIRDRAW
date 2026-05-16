@@ -3,7 +3,7 @@
 **AirDraw** is a premium, web-based drawing application that allows you to paint in thin air using your hand gestures or your mouse
 **Live Preview: https://airdraw-delta.vercel.app/**
 
-## ✨ Key Features
+##  Key Features
 
 -  **AI Hand Tracking**: Draw naturally in the air using your index finger.
 -  **Mouse Support**: Pixel-perfect drawing and erasing fallback for fine details.
@@ -14,7 +14,7 @@
 -  **Download & Share**: Export your masterpieces directly as high-quality PNG files.
 - **Haptic Visuals**: Interactive particle systems and confetti effects for a rich user experience.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Framework**: [React 19](https://reactjs.org/)
 - **AI Engine**: [Google MediaPipe Tasks Vision](https://developers.google.com/mediapipe)
@@ -23,7 +23,7 @@
 - **Styling**: Vanilla CSS (Custom Glassmorphism Design System)
 - **Effects**: [Canvas Confetti](https://github.com/catdad/canvas-confetti)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
