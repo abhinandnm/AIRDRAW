@@ -1,7 +1,7 @@
 #  AirDraw:  AI-Powered Air Drawing
 
 **AirDraw** is a web-based drawing application that allows you to paint in thin air using your hand gestures or your mouse.
-Just a fun side quest project. Some parts are AI-assisted; my role was mostly the idea, debugging, and deployment. Built purely for fun, learning, and experimenting with random stuff.
+- Just a fun side quest project. Some parts are AI-assisted; my role was mostly the idea, debugging, and deployment. Built purely for fun, learning, and experimenting with random stuff.
 
 
 
